@@ -1,0 +1,6 @@
+packages
+bin
+*.suo
+*.exe
+*.obj
+*.dll
